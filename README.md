@@ -1,0 +1,1 @@
+# Study-Navigator-Anki-Addon
